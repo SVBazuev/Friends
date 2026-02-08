@@ -1,4 +1,5 @@
-# Friends
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/SVBazuev/Friends/edit/main/README.en.md)     
+# Friends  
 Простая математическая задача!
 =  
   
@@ -15,3 +16,6 @@
 > Составление словаря прекращается, как только условия задачи будут соблюдены.
 
 > Алгоритм не должен опираться на заранее определённое кол-во учеников в классе.
+  
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/SVBazuev/Friends/edit/main/README.en.md)  
+
