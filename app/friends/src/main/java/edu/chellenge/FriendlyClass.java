@@ -16,7 +16,7 @@ public class FriendlyClass {
         "Алла", "Даша", "Кира", "Лена", "Тоня", "Люда"
     ));
 
-    // TODO заполните availableNames стримом из friends.json
+    // TODO заполните availableNames из файла friends.json
     private static List<String> availableNames = new ArrayList<>(NAMES);
     private static Map<String, List<String>> friends = new LinkedHashMap<>();
 
